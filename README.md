@@ -10,6 +10,7 @@ The dataset (found in the `data/` directory) covers:
 - National elections: Presidential, Vice Presidential, Senate, etc.
 - Local elections: Congressional, Governor, Mayor, and more
 - Metadata: Candidates, parties, districts, vote counts
+  
 We are working on adding more election cycles to the database
 
 ## How to Use
