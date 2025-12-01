@@ -3,13 +3,14 @@
 **OpenHalalan** is an open data initiative to make national and local election results in the Philippines freely accessible for researchers, journalists, policymakers, and the public.
 
 ## About the Project
-This repository contains a comprehensive, curated dataset of Philippine election results from national and local races. Our goal is to foster transparency, reproducibility, and wider participation in election research.
+This repository contains a comprehensive, curated dataset of Philippine election results from national and local races. Our goal is to foster transparency, reproducibility, and wider participation in Philippine election research.
 
 ## Dataset Contents
 The dataset (found in the `data/` directory) covers:
 - National elections: Presidential, Vice Presidential, Senate, etc.
 - Local elections: Congressional, Governor, Mayor, and more
 - Metadata: Candidates, parties, districts, vote counts
+We are working on adding more election cycles to the database
 
 ## How to Use
 - Download files from the `data/` folder.
