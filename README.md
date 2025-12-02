@@ -1,4 +1,4 @@
-# OpenHalalan: The Philippine Election Project
+# OpenHalalan: The Philippine National and Local Election Dataset Project
 
 **OpenHalalan** is an open data initiative to make national and local election results in the Philippines freely accessible for researchers, journalists, policymakers, and the public.
 
